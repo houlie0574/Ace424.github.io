@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Simple gallery featuring images from Wikipedia.
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://simple-gallery424.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://simple-gallery-424.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # In order to deploy a version of this site online, you will first need to insert your intended URL
 
